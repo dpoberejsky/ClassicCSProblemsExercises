@@ -7,6 +7,6 @@ def fib_recur(n: int) -> int:
     return fib_recur(n-1) + fib_recur(n-2)
 
 
-
+#write function to get minimum value in list
 
 
